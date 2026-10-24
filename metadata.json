@@ -1,0 +1,6 @@
+{
+  "name": "AI CivicGuard",
+  "description": "Intelligent Civic Issue Reporting & Resolution Platform with AI severity assessment, live status tracking, GIS mapping, and authority dispatch.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
